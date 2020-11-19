@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-color: #222636;
+    background-image: url("darkbg.png");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.main {
+    border: 2px solid white;
+    background: rgb(247,247,247, 0.6);
+    border-radius: 8px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+img {
+    max-width: 960px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+img:hover {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+}
