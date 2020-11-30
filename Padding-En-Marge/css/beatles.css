@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.container{
+    width: 1220px;
+    margin: 0 auto;
+    min-height: 1220px;
+    background-image: url(../img/LetItBe.jpg);
+}
