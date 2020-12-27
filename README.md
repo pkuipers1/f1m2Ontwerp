@@ -7,4 +7,6 @@ Hierin staan al mijn HTML / CSS / JavaScript opdrachten en websites. Gemaakt doo
 
 LandingPage: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/landingPage.html
 
-Opdracht 1 - Padding en Marge: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/Padding-En-Marge/
+Opdracht 3 - Padding en Marge: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/Padding-En-Marge/
+
+Opdracht 5 - Menus: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/Menus-2/
