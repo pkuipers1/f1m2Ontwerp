@@ -9,4 +9,6 @@ LandingPage: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/landingPage.html
 
 Opdracht 3 - Padding en Marge: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/Padding-En-Marge/
 
+Opdracht 4 - Display Types: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/OorlogsMuseum-Opdracht/index.html
+
 Opdracht 5 - Menus: http://28625.hosts2.ma-cloud.nl/f1m2Ontwerp/Menus-2/

@@ -1,0 +1,53 @@
+html, body{
+    margin: 0; padding: 0;
+}
+
+body{
+
+    color: azure;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+nav{    
+    display: flex;
+    background-color: cyan;
+    height: 40px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 200px;
+    padding: 10px 20px;
+    float: left;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: darkcyan;
+}
+
+h1{
+    clear: both;
+    margin: 0;
+    padding: 30px;
+    font-family: serif;
+    color: black;
+    background-color: azure;
+}
+
+img{
+    max-width: 100%;
+}
+
+section{
+    /* background-color: darkslategray; */
+}
+
+footer{
+    background-color: azure;
+    color: black;
+    padding: 10px 30px;
+}
