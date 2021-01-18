@@ -8,6 +8,7 @@
     <!-- voeg in de metatag hierboven je eigen naam toe  -->
     <title>layout met Bootstrap</title>
     <link rel="stylesheet" href="icofont/icofont.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 </head>
 
 <body style="background-color: antiquewhite;">
@@ -30,26 +31,26 @@
     </nav>
 
     
-    <header 
+    <header class="container"
     style="background-image: url(https://www.lamlisse.nl/wp-content/uploads/2018/05/20180516-131625-_52A1059-%C2%A9BibiVeth-1200x2200.jpg); background-position: center;">
         <h1>LAM</h1>
         <p>Lisser Art Museum</p>
         <button>Tickets op starttijd</button>
-        <div>
+        <div class="row">
 
-            <section>
+            <section class="col-2 bg-light">
                 <a href="#">
                     <img src="https://www.lamlisse.nl/wp-content/uploads/2018/03/tickets-square.svg" alt="tickets">
                     <p>tickets</p>
                 </a>
             </section>
-            <section>
+            <section class="col-2 bg-light">
                 <a href="#" >
                     <img src="https://www.lamlisse.nl/wp-content/uploads/2018/03/ontdek-square.svg" alt="kijker">
                     <p>bezoek</p>
                 </a>
             </section>
-            <section>
+            <section class="col-2 bg-light">
                 <a href="#">
                     <img src="https://www.lamlisse.nl/wp-content/uploads/2020/03/nieuws-square-1.svg" alt="nieuws">
                     <p>nieuws</p>
@@ -59,13 +60,15 @@
     </header>
 
 
-    <main>
+    <main class="container bg-light">
         
-           <div>
-            <img src="https://www.lamlisse.nl/wp-content/uploads/2018/05/20180516-141549-_52A1123-%C2%A9BibiVeth-1200x2200.jpg"
-            alt="anders kijken">
-           </div>
-            <div>
+        <div class="row">
+            <div class="col-4">
+                <img class="img-fluid" src="https://www.lamlisse.nl/wp-content/uploads/2018/05/20180516-141549-_52A1123-%C2%A9BibiVeth-1200x2200.jpg"
+                alt="anders kijken">
+            </div>
+
+            <div class="col-8">
                 <h3>Kom anders kijken in het LAM museum</h3>
                 <p>Het LAM is jouw museum in Nederland. Gloednieuw en bomvol internationale topstukken. Het LAM is
                     vooral ook een innovatief en persoonlijk museum dat je anders laat kijken. Voor alle leeftijden, en
@@ -75,6 +78,8 @@
                     <button>Ontdek het LAM ></button>
                 </div>
             </div>
+
+        </div>
         
     </main>
 
@@ -139,7 +144,7 @@
             </p>
         </section>
         <section>
-            <img src="https://www.lamlisse.nl/wp-content/uploads/2021/01/20200102-111344-_52A9504-Bibi-Veth-lr--scaled-e1610018879217.jpg"
+            <img class="img-fluid" src="https://www.lamlisse.nl/wp-content/uploads/2021/01/20200102-111344-_52A9504-Bibi-Veth-lr--scaled-e1610018879217.jpg"
                 alt="laat doodle zien">
             <h3>Laat me je doodle zien en ik zeg je wie je bent</h3>
             <p>
